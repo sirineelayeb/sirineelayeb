@@ -23,12 +23,12 @@ Building scalable web applications, intelligent IoT systems, and AI-powered solu
 
 ## About Me
 
-- Full-Stack Software Engineer with a passion for building scalable, high-performance applications.
-- Experienced in designing end-to-end web platforms, REST APIs, real-time systems, and IoT solutions.
-- Interested in Artificial Intelligence, Computer Vision, Cloud Computing, and distributed systems.
-- Enjoy turning complex ideas into reliable products with clean architecture and intuitive user experiences.
-- Currently pursuing a Master's degree in Internet of Things (IoT).
-
+- Full-Stack Software Engineer passionate about building scalable, high-performance web applications.
+- Experienced in developing end-to-end solutions, from responsive frontends to robust backend services and real-time systems.
+- Holds a Master's degree in Internet of Things (IoT) with a strong interest in AI-powered applications and connected technologies.
+- Skilled in designing modern software architectures that combine web development, IoT, and machine learning.
+- Always eager to learn new technologies and build solutions that solve real-world problems.
+  
 ---
 
 ## Tech Stack
