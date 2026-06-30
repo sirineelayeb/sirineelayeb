@@ -1,71 +1,166 @@
-# Hi 👋, I'm Sirine Elayeb
+# Hi, I'm Syrine Elayeb
 
-### 🌍 A passionate IoT & Full‑Stack Developer from Tunisia
+### Full-Stack Software Engineer | IoT Engineer | AI Developer
 
-- 🔭 I’m currently pursuing a **Master’s in Internet of Things (IoT)**  
-- 👨‍💻 I build **full‑stack applications and IoT systems**  
-- 💬 Ask me about **IoT, Web Development, Cloud & DevOps**  
-- 📫 How to reach me: **sirineelayeb21@gmail.com**  
-- ⚡ Fun fact: I love combining **tech with real-world impact**
+Building scalable web applications, intelligent IoT systems, and AI-powered solutions.
 
-### Connect with me:
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40sirineelayeb-181717?style=flat&logo=github)](https://github.com/sirineelayeb)
-[![Instagram](https://img.shields.io/badge/Instagram-%40syrine_ayb-E4405F?style=flat&logo=instagram)](https://www.instagram.com/syrine_ayb/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sirine_Elayeb-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/)
-
----
-
-### 🛠️ Technologies & Tools
-
-#### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-#### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-
-#### **IoT**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge) 
-![MQTT](https://img.shields.io/badge/MQTT-FF6F00?style=for-the-badge) 
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge)  
-
-#### **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-
-#### **Data & AI**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge) 
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)  
-
-#### **Methodologies**
-![Agile](https://img.shields.io/badge/Agile-F05138?style=for-the-badge) 
-![Scrum](https://img.shields.io/badge/Scrum-6C63FF?style=for-the-badge)  
+<p align="left">
+  <a href="https://github.com/sirineelayeb">
+    <img src="https://img.shields.io/badge/GitHub-sirineelayeb-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sirine-elayeb-455235243/">
+    <img src="https://img.shields.io/badge/LinkedIn-Syrine%20Elayeb-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://portfolio-website-eight-inky-73.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:syrine.elayeb.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-### 🌐 AI + IoT System Architecture
+## About Me
 
-A high-level view of an AI + IoT workflow:
+- Full-Stack Software Engineer with a passion for building scalable, high-performance applications.
+- Experienced in designing end-to-end web platforms, REST APIs, real-time systems, and IoT solutions.
+- Interested in Artificial Intelligence, Computer Vision, Cloud Computing, and distributed systems.
+- Enjoy turning complex ideas into reliable products with clean architecture and intuitive user experiences.
+- Currently pursuing a Master's degree in Internet of Things (IoT).
 
-```markdown
-📡 Sensors & Devices (IoT Layer) → 🔗 Communication Layer → ☁️ Cloud & Data Layer
-   → 🤖 AI & Analytics Layer → 📊 Visualization & Dashboard → 🔄 Feedback & Control
+---
+
+## Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-6C63FF?style=for-the-badge)
+
+### IoT & Real-Time
+
+![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## Featured Projects
+
+### HaulTrack
+
+An AI-powered fleet management platform developed end-to-end as the sole developer.
+
+**Highlights**
+
+- Real-time GPS tracking
+- Fleet and mission management
+- Driver management
+- Live vehicle monitoring
+- AI-powered license plate recognition using YOLOv8
+- MQTT communication
+- FastAPI backend
+
+**Tech Stack**
+
+React • FastAPI • Python • OpenCV • YOLOv8 • MQTT
+
+---
+
+### AI Robot Health Monitoring
+
+A predictive maintenance platform that detects anomalies in robot telemetry using machine learning.
+
+**Highlights**
+
+- Real-time telemetry processing
+- MQTT communication
+- Machine learning anomaly detection
+- Monitoring dashboard
+- Predictive maintenance
+
+**Tech Stack**
+
+Python • Scikit-learn • MQTT • React
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sirineelayeb&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sirineelayeb&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirineelayeb&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Currently Exploring
+
+- AI Agents
+- Large Language Models (LLMs)
+- Cloud Architecture
+- Distributed Systems
+- Advanced Computer Vision
+
+---
+
+## Education
+
+**Master's Degree in Internet of Things (IoT)**  
+Higher Institute of Technological Studies of Mahdia (ISET Mahdia)
+
+**Bachelor's Degree in Information Systems Development**  
+Higher Institute of Technological Studies of Mahdia (ISET Mahdia)
+
+---
+
+## Contact
+
+- **Portfolio:** https://portfolio-website-eight-inky-73.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/sirine-elayeb-455235243/
+- **Email:** syrine.elayeb.dev@gmail.com
